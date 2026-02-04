@@ -1,4 +1,4 @@
-# Raikhan Kassymkyzy 🌸
+# Raikhan Kassymkyzy 
 
 **Computer Science student**  
 Machine Learning • Data Analysis • Software Systems
@@ -18,6 +18,5 @@ Grafana · Power BI · Git
 
 ---
 
-📫 **Contact**  
-GitHub: https://github.com/raibaebe  
+📫 **Contact**    
 Email: kasimkizyraikhan@gmail.com
