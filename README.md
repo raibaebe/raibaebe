@@ -6,8 +6,8 @@ Machine Learning • Data Analysis • Software Systems
 ---
 
 💻 Building practical projects with **Python, SQL, JavaScript**  
-📊 Interested in **ML-based decision systems & analytics**  
-🌍 Based in Kazakhstan | Exchange student in South Korea
+📊 Interested in **ML & analytics**  
+🌍 Based in Kazakhstan 
 
 ---
 
